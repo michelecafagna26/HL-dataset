@@ -1,6 +1,6 @@
 # The High-Level Dataset
 
-The High-Level (HL) dataset is a Vision and Language (V\&L) resouring aligning object-centric descriptions from COCO with high-level descriptions crowdsourced along 3 axes: scene, action, rationale.
+The High-Level (HL) dataset is a Vision and Language (V\&L) resource aligning object-centric descriptions from COCO with high-level descriptions crowdsourced along 3 axes: scene, action, rationale.
 
 The HL dataset contains 149997 images from COCO and a total of 134973 crowdsourced captions (3 captions for each axis) aligned with ~749984 object-centric captions from COCO.
 
