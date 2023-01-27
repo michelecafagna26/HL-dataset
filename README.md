@@ -26,7 +26,7 @@ The high-level descriptions capture the human interpretations of the images. The
 
 This dataset is available on Huggingface Hub: [```michelecafagna26/hl```](https://huggingface.co/datasets/michelecafagna26/hl)
 
-You can use it directly in the ```datasets``` library:
+Use it directly in the ```datasets``` library:
 
 ```python
 from datasets import load_dataset
@@ -36,7 +36,7 @@ dataset = load_dataset("michelecafagna26/hl")
 
 ### Clone this repo
 
-You can download the annotations by cloning this repo
+Download the annotations by cloning this repo
 
 ```bash
 git clone git@github.com:michelecafagna26/hl.git
