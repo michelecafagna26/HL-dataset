@@ -127,10 +127,10 @@ An instance looks like this:
 ### Data Fields
 
 - ```file_name```: original COCO filename
-- ```captions```: Dict containing all the captions for the image. Each axis can be accessed with the axis name and it contains a list of captions.
-- ```confidence```: Dict containing the captions confidence scores. Each axis can be accessed with the axis name and it contains a list of captions. Confidence scores are not provided for the _object_ axis (COCO captions).t
-- ```purity score```: Dict containing the captions purity scores. The purity  score measures the semantic similarity of the captions within the same axis (Bleurt-based).
-- ```diversity score```: Dict containing the captions diversity scores. The diversity  score measures the lexical diversity of the captions within the same axis (Self-BLEU-based).
+- ```captions```: Dict containing all the captions for the image. Each axis can be accessed by the axis name and it contains a list of captions.
+- ```confidence```: Dict containing the captions confidence scores. Each axis can be accessed by the axis name and it contains a list of captions. Confidence scores are not provided for the _object_ axis (COCO captions).t
+- ```purity score```: Dict containing the captions purity scores. The purity score measures the semantic similarity of the captions within the same axis (Bleurt-based).
+- ```diversity score```: Dict containing the captions diversity scores. The diversity score measures the lexical diversity of the captions within the same axis (Self-BLEU-based).
 
 ### Data Splits
 
