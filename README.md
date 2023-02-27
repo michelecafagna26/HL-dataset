@@ -16,7 +16,7 @@ The high-level descriptions capture the human interpretations of the images. The
 - **🗃️ Repository:** [github.com/michelecafagna26/HL-dataset](https://github.com/michelecafagna26/HL-dataset)
 - **🤗 Available on HF Datasets:** [michelecafagna26/hl](https://huggingface.co/datasets/michelecafagna26/hl)
 - **🧭 Spaces:** [Dataset explorer](https://huggingface.co/spaces/michelecafagna26/High-Level-Dataset-explorer)
-- **📜 Paper:**
+- **📜 Paper:** [HL Dataset: Grounding High-Level Linguistic Concepts in Vision](https://arxiv.org/pdf/2302.12189.pdf)
 - **🖊️ Point of Contact:** michele.cafagna@um.edu.mt
 
 ---
