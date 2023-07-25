@@ -22,7 +22,7 @@ The high-level descriptions capture the human interpretations of the images. The
 ---
 ## Quick start 
 
-### Huggingface Hub
+### Huggingface Hub 🤗
 
 This dataset is available on Huggingface Hub: [```michelecafagna26/hl```](https://huggingface.co/datasets/michelecafagna26/hl)
 
