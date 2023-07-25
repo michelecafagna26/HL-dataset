@@ -1,6 +1,7 @@
 # HL Dataset Baselines
 ## Introduction
 We provide a collection of baselines for the high-level captioning task, consisting in generating **scene, action** and **rationale** description for the image and baselines of the **narrative captiong generation task** using the [HL-Narrative Dataset](https://huggingface.co/datasets/michelecafagna26/hl-narratives) an extension of the [HL Dataset](https://huggingface.co/datasets/michelecafagna26/hl) generating narrative captions based on the three axes.
+All the models are released on Huggingface Hub 🤗
 
 ## HL-scenes
 
