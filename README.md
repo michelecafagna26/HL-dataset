@@ -12,14 +12,18 @@ Each axis is collected by asking the following 3 questions:
 
 The high-level descriptions capture the human interpretations of the images. These interpretations contain abstract concepts not directly linked to physical objects. Each high-level description is provided with a confidence score, crowdsourced by an independent worker measuring the extent to which the high-level description is likely given the corresponding image, question, and caption. The higher the score, the more the high-level caption can is close to commonsense (in a Likert scale from 1-5).
 
+We further extend the HL dataset, with the *HL-Narratives*, a synthetic dataset obtained by combining the three axes to generate narratives of the image.
 
 - **🗃️ Repository:** [github.com/michelecafagna26/HL-dataset](https://github.com/michelecafagna26/HL-dataset)
-- **🤗 Available on HF Datasets:** [michelecafagna26/hl](https://huggingface.co/datasets/michelecafagna26/hl)
+- **🤗 Available on HF Datasets**: [michelecafagna26/hl](https://huggingface.co/datasets/michelecafagna26/hl) and [michelecafagna26/hl-narratives](https://huggingface.co/datasets/michelecafagna26/hl-narratives)
 - **🧭 Spaces:** [Dataset explorer](https://huggingface.co/spaces/michelecafagna26/High-Level-Dataset-explorer)
 - **📜 Paper:** [HL Dataset: Grounding High-Level Linguistic Concepts in Vision](https://arxiv.org/pdf/2302.12189.pdf)
 - **🖊️ Contact:** michele.cafagna@um.edu.mt
 
 ---
+## Baselines
+We provide [fine-tuned baselines](https://github.com/michelecafagna26/HL-dataset/blob/main/BASELINES.md) on high-level captioning tasks enabled by the HL dataset.
+
 ## Quick start 
 
 ### Huggingface Hub 🤗
