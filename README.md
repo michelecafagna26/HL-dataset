@@ -156,9 +156,12 @@ The remaining annotations are licensed under Apache-2.0 license.
 ### Citation Information
 
 ```BibTeX
-@inproceedings{Cafagna2023HLDG,
-  title={HL Dataset: Grounding High-Level Linguistic Concepts in Vision},
-  author={Michele Cafagna and Kees van Deemter and Albert Gatt},
+@inproceedings{cafagna2023hl,
+  title={{HL} {D}ataset: {V}isually-grounded {D}escription of {S}cenes, {A}ctions and
+{R}ationales},
+  author={Cafagna, Michele and van Deemter, Kees and Gatt, Albert},
+  booktitle={Proceedings of the 16th International Natural Language Generation Conference (INLG'23)},
+address = {Prague, Czech Republic},
   year={2023}
 }
 ```
