@@ -1,6 +1,10 @@
 # The High-Level Dataset
 
-The High-Level (HL) dataset is a Vision and Language (V\&L) resource aligning object-centric descriptions from COCO with high-level descriptions crowdsourced along 3 axes: scene, action, rationale.
+*Official repo for the paper: ["HL Dataset: Visually-grounded Description of Scenes, Actions and Rationales"](https://arxiv.org/abs/2302.12189?context=cs.CL) published at INLG2023.*
+
+---
+
+The High-Level (HL) dataset is a Vision and Language (V\&L) resource aligning object-centric descriptions from COCO with high-level descriptions crowdsourced along 3 axes: scenes, actions, and rationales.
 
 The HL dataset contains 149997 images from COCO and a total of 134973 crowdsourced captions (3 captions for each axis) aligned with ~749984 object-centric captions from COCO.
 
@@ -17,7 +21,7 @@ We further extend the HL dataset, with the *HL-Narratives*, a synthetic dataset 
 - **🗃️ Repository:** [github.com/michelecafagna26/HL-dataset](https://github.com/michelecafagna26/HL-dataset)
 - **🤗 Available on HF Datasets**: [michelecafagna26/hl](https://huggingface.co/datasets/michelecafagna26/hl) and [michelecafagna26/hl-narratives](https://huggingface.co/datasets/michelecafagna26/hl-narratives)
 - **🧭 Spaces:** [Dataset explorer](https://huggingface.co/spaces/michelecafagna26/High-Level-Dataset-explorer)
-- **📜 Paper:** [HL Dataset: Grounding High-Level Linguistic Concepts in Vision](https://arxiv.org/pdf/2302.12189.pdf)
+- **📜 Paper:** [HL Dataset: Visually-grounded Description of Scenes, Actions and Rationales](https://arxiv.org/abs/2302.12189?context=cs.CL)
 - **🖊️ Contact:** michele.cafagna@um.edu.mt
 
 ---
