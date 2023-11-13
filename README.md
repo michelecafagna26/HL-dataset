@@ -14,7 +14,7 @@ Each axis is collected by asking the following 3 questions:
 - What is the subject doing?
 - Why is the subject doing it?
 
-The high-level descriptions capture the human interpretations of the images. These interpretations contain abstract concepts not directly linked to physical objects. Each high-level description is provided with a confidence score, crowdsourced by an independent worker measuring the extent to which the high-level description is likely given the corresponding image, question, and caption. The higher the score, the more the high-level caption can is close to commonsense (in a Likert scale from 1-5).
+The high-level descriptions capture the human interpretations of the images. These interpretations contain abstract concepts not directly linked to physical objects. Each high-level description is provided with a confidence score, crowdsourced by an independent worker measuring the extent to which the high-level description is likely given the corresponding image, question, and caption. The higher the score, the more the high-level caption can is close to commonsense (on a Likert scale from 1-5).
 
 We further extend the HL dataset, with the *HL-Narratives*, a synthetic dataset obtained by combining the three axes to generate narratives of the image.
 
